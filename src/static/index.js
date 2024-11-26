@@ -3,7 +3,7 @@ import aptechka from "../assets/aptechka.png";
 import planshet from "../assets/planshet.png";
 import tashxis from "../assets/tashxis.png";
 import plus from "../assets/plus.png";
-import group from "../assets/group.png";
+import group from "../assets/Group.png";
 
 export const CARD_LIST = [
   {
